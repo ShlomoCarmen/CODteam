@@ -9,7 +9,7 @@ class App extends Component {
        <h1>shlomo -- test</h1>
        <p>this is a paragraph</p>
        <p>this is a paragraph</p>
-       <p>this change came from a pull request</p>
+       <p>this change came from a pull request that we want to check reviewrs</p>
       </div>
     );
   }

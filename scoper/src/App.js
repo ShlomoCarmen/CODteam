@@ -8,6 +8,7 @@ class App extends Component {
       <div className="App">
        <h1>shlomo -- test</h1>
        <p>this is a paragraph</p>
+      <p>this is a paragraph</p>
       </div>
     );
   }
